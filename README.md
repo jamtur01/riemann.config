@@ -21,6 +21,7 @@ or
 * [Collection of riemann configuration files that can be included conditionally](https://github.com/celtra/riemann-config)
 * [A few riemann config helper functions](https://github.com/jxwr/riemann-config-helper)
 * [Riemann configuration for monitoring Docker](https://github.com/supherman/docker-riemann-config)
+* [Collectd & Riemann-based monitoring setup](https://github.com/algernon/monitoring-setup)
 
 ## Other useful things
 
