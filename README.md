@@ -21,6 +21,7 @@ or
 * [Collection of riemann configuration files that can be included conditionally](https://github.com/celtra/riemann-config)
 * [A few riemann config helper functions](https://github.com/jxwr/riemann-config-helper)
 * [Riemann configuration for monitoring Docker](https://github.com/supherman/docker-riemann-config)
+* [Amara metrics](https://github.com/pculture/amara-metrics/blob/master/modules/riemann/files/riemann.config)
 
 ## Other useful things
 
