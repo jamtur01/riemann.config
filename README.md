@@ -23,6 +23,8 @@ or
 * [Riemann configuration for monitoring Docker](https://github.com/supherman/docker-riemann-config)
 * [Amara metrics](https://github.com/pculture/amara-metrics/blob/master/modules/riemann/files/riemann.config)
 * [Collectd & Riemann-based monitoring setup](https://github.com/algernon/monitoring-setup)
+* [Docker, Slack, Sendgrid DemocracyNow example configuration](https://github.com/democracyworks/riemann-docker/blob/master/riemann.config)
+
 
 ## Other useful things
 
